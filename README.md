@@ -19,12 +19,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](/images/preview.png)
+![](./images/preview.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://edgar-meza.github.io/QR_Code_Component/)
+- Solution URL: [Solución](https://edgar-meza.github.io/QR_Code_Component/)
 
 ## My process
 
